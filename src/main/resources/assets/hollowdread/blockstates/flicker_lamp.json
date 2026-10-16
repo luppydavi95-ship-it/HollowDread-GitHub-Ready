@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=true": {
+      "model": "hollowdread:block/flicker_lamp_on"
+    },
+    "lit=false": {
+      "model": "hollowdread:block/flicker_lamp_off"
+    }
+  }
+}
